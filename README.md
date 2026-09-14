@@ -22,4 +22,5 @@ pip install streamlit yfinance pandas matplotlib
 streamlit run app.py
 ```
 
-![chart](
+![chart](https://github.com/user-attachments/assets/42f4ce7d-ad2c-42aa-9483-bce423ca77c5)
+
